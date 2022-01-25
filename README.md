@@ -1,2 +1,2 @@
-# 3001 Advanced Computer Organisation and Architecture
+# 3001 Advanced Computer Architecture
 #### Code implementation for all labs
